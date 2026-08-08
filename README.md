@@ -46,3 +46,13 @@
 </body>
 
 </html>
+
+<h2>🎥 Vídeo do Projeto</h2>
+
+<p align="center">
+  <a href="https://youtu.be/LeAEMvHEx4o">
+    <img src="https://img.youtube.com/vi/LeAEMvHEx4o/maxresdefault.jpg" 
+         alt="Assistir ao vídeo"
+         width="700">
+  </a>
+</p>
