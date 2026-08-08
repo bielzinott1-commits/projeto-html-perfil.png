@@ -47,7 +47,7 @@
 
 </html>
 
-<h2>🎥 Vídeo do Projeto</h2>
+<h2>🎥 Curso Git e GutHub completo!</h2>
 
 <p align="center">
   <a href="https://youtu.be/LeAEMvHEx4o">
